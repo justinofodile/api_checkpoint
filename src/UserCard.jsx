@@ -10,6 +10,7 @@ const UserCard = ({ user }) => (
   <Card
     style={{
       width: 400,
+      border: "2px solid gray",
     }}
   >
     <Meta
